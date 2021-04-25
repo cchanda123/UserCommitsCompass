@@ -10,7 +10,7 @@ The java.json helps in JSON parsing.
 
 The program accepts the following three inputs via scanner:
 1. The GitHub User Name of user.
-2. Password (Put in the Authentication token)
+2. The GitHub Password of user in the form of Authentication token.
 3. CSV file storage location
 
 Output:
