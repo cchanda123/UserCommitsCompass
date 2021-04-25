@@ -14,5 +14,5 @@ The program accepts 3 inputs
 3. CSV file storage location
 
 Output:
---> CSV file of dates ordered in descending order, while is stores in the location specified by user.
---> Average of the differences in hours, for ex: if the average is 1.87 hours, the program will show 1 hour
+1. CSV file of dates ordered in descending order, while is stores in the location specified by user.
+2. Average of the differences in hours, for ex: if the average is 1.87 hours, the program will show 1 hour
