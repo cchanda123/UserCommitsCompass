@@ -15,3 +15,4 @@ The program accepts 2 inputs
 
 Output:
 --> CSV file of dates ordered in descending order, while is stores in the location specified by user.
+--> Average of the differences in hours, for ex: if the average is 1.87 hours, the program will show 1 hour
