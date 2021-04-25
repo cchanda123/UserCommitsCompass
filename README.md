@@ -11,7 +11,7 @@ The java.json helps in JSON parsing.
 The program accepts 3 inputs
 1. User Name(Git)
 2. Password (Put in the Authentication token)
---> CSV file storage location
+3. CSV file storage location
 
 Output:
 --> CSV file of dates ordered in descending order, while is stores in the location specified by user.
