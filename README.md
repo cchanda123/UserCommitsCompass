@@ -1,11 +1,13 @@
 # UserCommitsCompass
 
 Introduction
+
 The given code performs the following operations:
 Part # 1 - Accepting user input and generating a CSV file with the time stamps of the first 60 commits.
 Part # 2 - Calculating the mean of the time difference in hours between two adjacent commits.
 
-Setup:
+Setup
+
 The current code requires the following Java packages to be added manually to the project.
 1. java.net.http
 2. java.json (It can be downloaded from http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip)
