@@ -12,7 +12,7 @@ The program accepts the following three inputs via scanner:
 1. The GitHub User Name of user.
 2. The GitHub Password of user in the form of Authentication token.
 3. The path on which the CSV file must be generated and stored on the user's machine.
-	- Please ensure that '\' is written as '\\'.
+	- Please ensure that '\' is written as '\\'. For example, "C:\\Users\\cheta\\" must be written as	
 
 Output:
 1. CSV file of dates ordered in descending order, while is stores in the location specified by user.
