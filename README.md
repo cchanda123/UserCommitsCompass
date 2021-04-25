@@ -14,4 +14,4 @@ The program accepts 2 inputs
 --> CSV file storage location
 
 Output:
---> CSV file of dates ordered in descending order
+--> CSV file of dates ordered in descending order, while is stores in the location specified by user.
