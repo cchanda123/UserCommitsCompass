@@ -2,7 +2,7 @@
 
 The given code performs the following operations:
 Part # 1 - Accepting user input and generating a CSV file with the timestamps of the first 60 commits.
-Part # 2 - 
+Part # 2 - Calculating the mean of the time difference in hours between two adjacent commits.
 
 The current code requires the following Java packages to be added manually to the project.
 1. java.net.http
