@@ -9,8 +9,8 @@ The java.net.http is required to add the authentication headers and accept forma
 The java.json helps in JSON parsing.
 
 The program accepts 3 inputs
---> User Name(Git)
---> Password (Put in the Authentication token)
+1. User Name(Git)
+2. Password (Put in the Authentication token)
 --> CSV file storage location
 
 Output:
