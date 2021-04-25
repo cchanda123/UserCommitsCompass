@@ -1,5 +1,9 @@
 # UserCommitsCompass
 
+The given code performs the following operations:
+1. Part # 1 - Accepting user input and generating a CSV file with the timestamps of the first 60 commits.
+2. Part # 2 - 
+
 The current code requires the following Java packages to be added manually to the project.
 1. java.net.http
 2. java.json (It can be downloaded from http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip)
