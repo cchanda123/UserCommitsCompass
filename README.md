@@ -28,5 +28,6 @@ Expected Output
 1. CSV file of dates ordered in descending order, while is stores in the location specified by user.
 2. Average of the differences in hours. 
 
-Limitations:
+Limitations
+
 1. The mean difference in hours is rounded down to the nearest integer. For example, if the mean difference is 1.87 hours, the program output will display it as 1 hour.
