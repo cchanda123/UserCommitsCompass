@@ -7,3 +7,5 @@ The current code requires the following Java packages to be added manually to th
 The java.net.http is required to add the authentication headers and accept format to the request.
 
 The java.json helps in JSON parsing.
+
+The program accepts 2 inputs
